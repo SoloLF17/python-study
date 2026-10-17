@@ -29,11 +29,11 @@ Os arquivos preservam as soluções produzidas durante o aprendizado e podem rec
 | **Mundo 1 · Fundamentos** | Entrada e saída com `input()` e `print()`, tipos de dados, conversões, operadores, manipulação de strings e condições com `if` e `else` | Análise de textos, identificação de números pares, cálculo de tarifas, ano bissexto e verificação de triângulos |
 | **Mundo 2 · Controle de fluxo** | Condições com `elif`, laços `for` e `while`, `range()`, contadores, acumuladores, `break` e formatação de saída | Jogos no terminal, tabuada, números primos, palíndromos, fatorial, progressão aritmética, Fibonacci e simulação de caixa eletrônico |
 | **Mundo 3 · Tuplas** | Indexação, fatiamento, iteração, busca, contagem e uso de `sorted()`, `min()` e `max()` | Números por extenso, classificação de times, sorteios, tabela de preços e identificação de vogais |
-| **Mundo 3 · Listas** | Criação e cópia por fatiamento, `append()`, `insert()`, `pop()`, `remove()`, `sort()`, `len()`, `enumerate()` e verificação com `in` e `not in` | Maior e menor valor com suas posições, cadastro sem duplicatas, inserção ordenada, análise de valores e separação de pares e ímpares |
+| **Mundo 3 · Listas** | Criação e cópia por fatiamento, `append()`, `insert()`, `pop()`, `remove()`, `sort()`, `len()`, `enumerate()` e verificação com `in` e `not in` | Maior e menor valor com suas posições, cadastro sem duplicatas, inserção ordenada, análise de valores, separação de pares e ímpares e uso de uma lista como pilha para verificar parênteses |
 
 Também pratico o uso dos módulos `random`, `time` e `datetime`, além de saídas formatadas com `.format()` e f-strings.
 
-**Etapa atual:** estudo de listas na aula 17, com soluções desenvolvidas para os desafios 78 a 82. O Mundo 3 reúne os desafios 72 a 82, abrangendo tuplas e listas.
+**Etapa atual:** estudo de listas na aula 17, com soluções desenvolvidas para os desafios 78 a 83. O Mundo 3 reúne os desafios 72 a 83, abrangendo tuplas e listas.
 
 ## Exercícios em destaque
 
@@ -54,6 +54,7 @@ Também pratico o uso dos módulos `random`, `time` e `datetime`, além de saíd
 | Inserção em ordem crescente | Uso de `insert()` para manter a lista ordenada durante a entrada | [Desafio 80](mundo%203/a17-e80.py) |
 | Análise de valores em uma lista | Contagem, ordenação decrescente e busca pelo valor 5 | [Desafio 81](mundo%203/a17-e81.py) |
 | Separação de pares e ímpares | Percurso e distribuição de valores em listas | [Desafio 82](mundo%203/a17-e82.py) |
+| Verificação de parênteses | Uso de uma lista como pilha, com `append()` e `pop()`, para verificar o balanceamento de parênteses em uma expressão | [Desafio 83](mundo%203/a17-e83.py) |
 
 ## Organização
 
@@ -84,7 +85,7 @@ python "mundo 3/a16-e76.py"
 Para executar um exercício com listas:
 
 ```bash
-python "mundo 3/a17-e82.py"
+python "mundo 3/a17-e83.py"
 ```
 
 No Windows, também é possível usar `py` no lugar de `python`. Mantenha as aspas nos caminhos, pois as pastas possuem espaços. Nos exercícios interativos, siga as perguntas apresentadas no terminal.
@@ -100,8 +101,8 @@ python -m pip install colorama
 - [x] Praticar fundamentos, strings e operadores.
 - [x] Resolver desafios com condições e estruturas de repetição.
 - [x] Explorar tuplas em exercícios de análise e apresentação de dados.
-- [x] Estudar operações com listas e desenvolver os desafios 78 a 82 da aula 17.
-- [ ] Criar e desenvolver o desafio 83 da aula 17.
+- [x] Estudar operações com listas e desenvolver os desafios 78 a 83 da aula 17.
+- [x] Usar uma lista como pilha para verificar o balanceamento de parênteses no desafio 83.
 - [ ] Revisar soluções anteriores com os novos conhecimentos.
 
 ---
