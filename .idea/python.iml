@@ -2,7 +2,10 @@
 <module type="PYTHON_MODULE" version="4">
   <component name="NewModuleRootManager">
     <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/modulos_mundo3_a22" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/modulos_mundo3_a22/uteis" isTestSource="false" />
       <excludeFolder url="file://$MODULE_DIR$/.venv" />
+      <excludeFolder url="file://$MODULE_DIR$/modulos_mundo3_a22/.venv" />
     </content>
     <orderEntry type="jdk" jdkName="~/PycharmProjects/python-study/.venv" jdkType="Python SDK" />
     <orderEntry type="sourceFolder" forTests="false" />
