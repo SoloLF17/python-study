@@ -6,8 +6,9 @@
       <sourceFolder url="file://$MODULE_DIR$/modulos_mundo3_a22/uteis" isTestSource="false" />
       <excludeFolder url="file://$MODULE_DIR$/.venv" />
       <excludeFolder url="file://$MODULE_DIR$/modulos_mundo3_a22/.venv" />
+      <excludeFolder url="file://$MODULE_DIR$/python poo/.venv" />
     </content>
-    <orderEntry type="jdk" jdkName="~/PycharmProjects/python-study/.venv" jdkType="Python SDK" />
+    <orderEntry type="jdk" jdkName="Python 3.15 (python-study)" jdkType="Python SDK" />
     <orderEntry type="sourceFolder" forTests="false" />
   </component>
 </module>

@@ -1,4 +1,4 @@
-from lib.interface import *
+
 
 from mundo_3_tratamentos_de_erros_e_excecoes.ex115.lib.interface import cabeçalho
 
